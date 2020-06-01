@@ -37,3 +37,4 @@ link Video:
 https://drive.google.com/open?id=1dLF29t6oxFwEofoleuWBY2ZtUMWb7Z0v
 
 Link Program:
+https://github.com/hariatylumbantobing/Normalisasi-Kata-Singkatan
