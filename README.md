@@ -2,10 +2,12 @@
 Judul : Memperbaiki Kata Tidak Formal pada Komentar dengan Menggunakan Dataset Kamus, Word2vec dan Edit Distance.
 
 Program yang dapat memperbaiki kata tidak formal dalam Bahasa Indonesia dengan Menggunakan Dataset Kamus, Word2vec dan Edit Distance.
-Program ini disusun oleh Kelompok 14:
+Program ini disusun oleh Kelompok 4:
 
 Hariaty Lumbantobing 11S16029
+
 Ditto Silalahi 11S16042
+
 Ruthya Aruan 11S16056
 
 Program ini terinspirasi dari:
